@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-game-engine-x",
+  "version": "0.1.0",
+  "description": "Blockchain-based game engine (X edition)",
+  "main": "game-engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "crypto-js": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/blockchain-game-engine-x.git"
+  }
+}
